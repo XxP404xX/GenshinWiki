@@ -1,1 +1,1 @@
-### Welcome to GenshinWikiBot Offcial Website
+### Welcome to GenshinWikiBot Offical Github Repository.
