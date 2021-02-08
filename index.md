@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+### GenshinWikiBot#6277
+
 
 You can use the [editor on GitHub](https://github.com/XxP404xX/GenshinWiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
