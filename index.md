@@ -4,40 +4,14 @@
 
 
 ### GenshinWikiBot#6277
+GenshinWikiBot is a Discord bot that was inspired by the rpg open world game, GenshinImpact, by the company miHoYo. GesnshinWikiBot provides a brief information for charcaters, artifacts, weapons, places and more. GenshinWikiBot information are all from [Genshin Impact Fandom](https://genshin-impact.fandom.com/), so all info are valid and brief. We used a fan made API by [genshin.dev](https://api.genshin.dev/) to get info about weapons, artifacts and weapons. There are more commands and utilities to come very soon such as Genshin Impact OST radio, which we am working on it right now. We hope to bring you convinience while playing Genshin Impact in the future. Plus, if you are new here, what are you waiting for? Invite GenshinWikiBot right now to your desire Discord Server and start adventuring!
 
-
-You can use the [editor on GitHub](https://github.com/XxP404xX/GenshinWiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Changelog
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    Current version: v2.3
+    Updates: New UI improvement
+             New serverTime command being added
+             Improve stability of Servers to prevent GenshinWiki to go offline again
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XxP404xX/GenshinWiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
