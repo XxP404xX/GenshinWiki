@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 title: GenshinWikiBot
+email: geshinwikibot22@gmail.com
 description: A Genshin Impact Wiki bot that gives you info about the game such, as weapons, characters, artifacts, places and more.
 author: XxP404xX/Ivan Ngu
-use_logo: true
-logo: assests/logo.png
-navbar-toggle: true
-format: web
+twitter_username: genshinwikibot
+github_username:  XxP404xX
+
