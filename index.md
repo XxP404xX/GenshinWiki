@@ -14,4 +14,8 @@ GenshinWikiBot is a Discord bot that was inspired by the rpg open world game, Ge
              Improve stability of Servers to prevent GenshinWiki to go offline again
 ```
 
+### About our team
+Our team is known as the Error404 team. Currently we are on with a few projects. Currently GenshinWikiBot is one of the bot we decided to make public. There are still some upcoming bots that are going to be released but still under some work. Currently there is till no way to support us, but adding GenshinWikiBot will be the best way to support use at this current state. You can also follow on GenshinWiki Offcial Twitter to get early looks of upcoming GenshinWikiBot features.
+
+### [Help Server](https://discord.gg/CdCjPFbgUj)
 
