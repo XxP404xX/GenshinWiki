@@ -2,8 +2,4 @@ theme: jekyll-theme-cayman
 title: GenshinWikiBot
 description: A Genshin Impact Wiki bot that gives you info about the game such, as weapons, characters, artifacts, places and more.
 author: XxP404xX/Ivan Ngu
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+avatar: "https://images-ext-2.discordapp.net/external/NrFZ3Ovh5rOKRR2FpKD59vIOP6JyUCXrbelkN0sprpM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/792003707591720991/e2802709de402a3d6648849a57e0e0a5.webp?width=663&height=663"
