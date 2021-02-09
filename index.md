@@ -1,3 +1,8 @@
+[![Discord Bots](https://top.gg/api/widget/792003707591720991.svg)](https://top.gg/bot/792003707591720991)
+
+
+
+
 ### GenshinWikiBot#6277
 
 
