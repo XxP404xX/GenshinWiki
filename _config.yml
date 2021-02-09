@@ -9,3 +9,4 @@ use_logo: true
 logo: assests/logo.png
 avatar: "assests/logo.png"
 round_avatar: true
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
