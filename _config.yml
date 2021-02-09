@@ -3,6 +3,6 @@ title: GenshinWikiBot
 description: A Genshin Impact Wiki bot that gives you info about the game such, as weapons, characters, artifacts, places and more.
 author: XxP404xX/Ivan Ngu
 use_logo: true
-logo: assets/logo.png
+logo: assests/logo.png
 navbar-toggle: true
 format: web
