@@ -3,7 +3,7 @@ email: geshinwikibot22@gmail.com
 author: XxP404xX/Ivan Ngu
 twitter_username: genshinwikibot
 github_username:  XxP404xX
-theme: jekyll-theme-minimal
+theme: minima
 use_logo: true
 logo: assests/logo.png
 avatar: "assests/logo.png"
